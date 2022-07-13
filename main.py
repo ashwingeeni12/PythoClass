@@ -1,0 +1,1 @@
+print("Hey there! I'm typing in a programming language called \"Python.\" Here's a pair of back slashes \\\!\nNext class, I'll learn the data type of what I'm typing right now!")
